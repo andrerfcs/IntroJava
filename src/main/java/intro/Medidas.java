@@ -72,7 +72,7 @@ public class Medidas {
 
     }
     public static void tabuada(){
-        System.out.print("Você quer calcular a tabuada de qual numero? ");
+        System.out.print("Você quer calcular a tabuada de qual numero?  ");
         byte numero = entrada.nextByte();
 
         for (byte i=1;i<=10;i++){
